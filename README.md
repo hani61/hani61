@@ -24,7 +24,7 @@ Get in Touch
 
     Email: hani.ahmed6080@gmail.com
     LinkedIn: www.linkedin.com/in/hani-ahmed-702125229
-    Twitter: [@hani61_](https://x.com/hani61_)
+    Twitter: ![@hani61_](https://x.com/hani61_)
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you.
 
