@@ -23,8 +23,8 @@ Get in Touch
 ### I’m always open to connecting with fellow developers, collaborators, and anyone interested in my work. Here’s how you can reach me:
 
     Email: hani.ahmed6080@gmail.com
-    LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hani-ahmed-702125229/)
-    Twitter: @hani61_
+    LinkedIn: www.linkedin.com/in/hani-ahmed-702125229
+    Twitter: [@hani61_](https://x.com/hani61_)
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you.
 
