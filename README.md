@@ -3,7 +3,7 @@
 
 
 ### Hello! I'm a dedicated and enthusiastic Computer Science student with a passion for mobile app development. Currently, I'm diving deep into Flutter and Android development to create amazing and user-friendly applications.
-Current Focus
+# Current Focus
 
     Flutter Development: Building cross-platform mobile applications using Flutter.
     Android Development: Crafting native Android apps with intuitive user experiences.
