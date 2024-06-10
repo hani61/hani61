@@ -1,9 +1,5 @@
 Welcome to My GitHub Profile!
 
-![IMG_8821-4](https://github.com/hani61/hani61/assets/117489804/116a50d5-fe7b-4198-a6c4-62abea99965c)
-
-##Welcome to My GitHub Profile!
-About Me
 
 Hello! I'm a dedicated and enthusiastic Computer Science student with a passion for mobile app development. Currently, I'm diving deep into Flutter and Android development to create amazing and user-friendly applications.
 Current Focus
