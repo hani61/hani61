@@ -2,7 +2,7 @@
 ![Untitled design](https://github.com/hani61/hani61/assets/117489804/2976683b-da85-4429-8d2f-182d93d22010)
 
 
-Hello! I'm a dedicated and enthusiastic Computer Science student with a passion for mobile app development. Currently, I'm diving deep into Flutter and Android development to create amazing and user-friendly applications.
+## Hello! I'm a dedicated and enthusiastic Computer Science student with a passion for mobile app development. Currently, I'm diving deep into Flutter and Android development to create amazing and user-friendly applications.
 Current Focus
 
     Flutter Development: Building cross-platform mobile applications using Flutter.
