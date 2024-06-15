@@ -26,6 +26,10 @@ Get in Touch
     LinkedIn: www.linkedin.com/in/hani-ahmed-702125229
     Twitter: ![@hani61_](https://x.com/hani61_)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 Thank you for visiting my GitHub profile! I look forward to connecting with you.
 
 Feel free to clone, fork, and contribute to my projects. Let's build something great together!
